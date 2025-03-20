@@ -1,0 +1,12 @@
+vo bang post id 
+xong croll
+
+# lay binh luan
+//div[@role='article']
+
+lay ten nguoi dung bang class
+x193iq5w xeuugli x13faqbe x1vvkbs x1xmvt09 x1lliihq x1s928wv xhkezso x1gmr53x x1cpjm7i x1fgarty x1943h6x x4zkp8e x676frb x1nxh6w3 x1sibtaa x1s688f xzsf02u
+//div[@role='article']//a[contains(@class, 'x1i10hfl')]/span
+
+lay binh luan
+//div[@role='article']//div[@dir='auto']
