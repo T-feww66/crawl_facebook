@@ -28,6 +28,8 @@ dist/
 
 *.coverage
 
+*.pkl
+
 .coverage.*
 
 .cache
@@ -78,3 +80,4 @@ demo
 
 #file
 .env
+my_cookies.pkl
