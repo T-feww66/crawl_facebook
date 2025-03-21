@@ -2,14 +2,14 @@ import pickle
 from time import sleep
 import random
 
+
 def login_fb_by_cookies(cookies_file, driver):
 
-    #Open Facebook
+    # Open Facebook
     if "facebook.com" not in driver.current_url:
         driver.get("https://www.facebook.com")
         sleep(random.randint(1, 8))
 
-    
     print("Đăng nhập bằng cookies nè anh long")
     # đọc cookies từ file có sẳn
     try:

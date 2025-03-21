@@ -1,7 +1,5 @@
-post_link = []
+list_count = [1, 2, 3, 4, 5, 6, 7, 8, 9]
 
-for i in range(5):
-    for a in range(5):
-        post_link.extend([a])
+list_count = list_count[1:-1]
 
-print(post_link)
+print(list_count)

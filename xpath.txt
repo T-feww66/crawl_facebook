@@ -10,3 +10,5 @@ x193iq5w xeuugli x13faqbe x1vvkbs x1xmvt09 x1lliihq x1s928wv xhkezso x1gmr53x x1
 
 lay binh luan
 //div[@role='article']//div[@dir='auto']
+
+//div[contains(@class, 'xwib8y2') and contains(@class, 'xn6708d') and contains(@class, 'x1ye3gou') and contains(@class, 'x1y1aw1k')]//div[@role='button']
