@@ -77,8 +77,8 @@ venv-crawl-fb/
 
 # Folder
 demo
-comments_data
-post_data
+data
+chrome_driver
 
 #file
 .env
